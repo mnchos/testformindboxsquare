@@ -1,0 +1,11 @@
+E:\github\testformindboxsquare\libformindboxsquare\bin\Debug\net7.0\libformindboxsquare.deps.json
+E:\github\testformindboxsquare\libformindboxsquare\bin\Debug\net7.0\libformindboxsquare.dll
+E:\github\testformindboxsquare\libformindboxsquare\bin\Debug\net7.0\libformindboxsquare.pdb
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\libformindboxsquare.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\libformindboxsquare.AssemblyInfoInputs.cache
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\libformindboxsquare.AssemblyInfo.cs
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\libformindboxsquare.csproj.CoreCompileInputs.cache
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\libformindboxsquare.dll
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\refint\libformindboxsquare.dll
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\libformindboxsquare.pdb
+E:\github\testformindboxsquare\libformindboxsquare\obj\Debug\net7.0\ref\libformindboxsquare.dll

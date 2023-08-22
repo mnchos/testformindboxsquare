@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33927.210
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libformindboxsquare", "libformindboxsquare.csproj", "{16D1FBE1-85E5-4686-AD35-0812748180D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindboxsquare.test", "..\mindboxsquare.test\mindboxsquare.test.csproj", "{370D4AC2-0F60-4E51-9C06-B3DCE03249A2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{16D1FBE1-85E5-4686-AD35-0812748180D6} = {16D1FBE1-85E5-4686-AD35-0812748180D6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D1FBE1-85E5-4686-AD35-0812748180D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D1FBE1-85E5-4686-AD35-0812748180D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D1FBE1-85E5-4686-AD35-0812748180D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D1FBE1-85E5-4686-AD35-0812748180D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370D4AC2-0F60-4E51-9C06-B3DCE03249A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370D4AC2-0F60-4E51-9C06-B3DCE03249A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370D4AC2-0F60-4E51-9C06-B3DCE03249A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370D4AC2-0F60-4E51-9C06-B3DCE03249A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9F217C-D203-43CB-9DC7-82F7CC34F5EC}
+	EndGlobalSection
+EndGlobal
